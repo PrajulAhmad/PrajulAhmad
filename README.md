@@ -37,6 +37,7 @@
 * **Integrated** the Razorpay payment gateway with HMAC SHA256 signature verification to support multi-tier subscription billing (Starter, Professional) on monthly and yearly cycles.
 * **Designed** a member dashboard for real-time client management, automated performance metric tracking, and subscription/payment history.
 * **Enforced** Row Level Security (RLS) on Supabase and configured CORS on the backend for data privacy and API security.
+* **Deployed** live on Netlify — [view demo](https://flowtechz.netlify.app/).
 
 ### 🐧 [Linux Resource Monitor](https://github.com/PrajulAhmad/Linux-Resource-Monitor)
 * **Engineered** a `top`/`htop`-style command-line utility in C, manually parsing the `/proc` filesystem to compute CPU, memory, and per-process statistics in real time.
