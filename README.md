@@ -8,7 +8,6 @@
 * **Education**: 2026 Computer Science & Engineering Graduate, Chandigarh University (Mohali).
 * **Philosophy**: Prioritizing functional, low-level efficiency over experimental fluff.
 * **Recent Milestone**: Attended the **India AI Impact Summit 2026**, focusing on AI infrastructure sustainability.
-* **Research**: Authored a research manuscript currently prepared for **IEEE submission**.
 * **Applied Experience**: Completed the Accenture UK (Developer & Technology) and Accenture Nordics (Software Engineering) job simulations via Forage.
 
 ---
