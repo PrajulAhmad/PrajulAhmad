@@ -29,7 +29,7 @@
 * **Built** a full-stack, role-based team task management platform using Node.js, Express, and Supabase PostgreSQL.
 * **Implemented** JWT authentication with bcrypt hashing and admin/member access control enforced at the API level.
 * **Designed** a visual Kanban board (`Todo → In Progress → Done`) with overdue-task detection and dashboard analytics.
-* **Deployed** live on Railway — [view demo](https://taskflow-production-2bfd.up.railway.app).
+* **Deployed** live — [view demo](https://taskflow.prajulahmad.me/).
 
 ### 💼 [TechFlow](https://github.com/PrajulAhmad/SaaS-Platform) — Enterprise SaaS Platform
 * **Built** a full-stack SaaS platform with a Node.js/Express backend, Supabase-managed PostgreSQL database, and a responsive frontend with GSAP-powered animations.
